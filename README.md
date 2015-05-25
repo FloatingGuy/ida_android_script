@@ -1,4 +1,3 @@
 # ida_android_script
-some idapython scripts for android debugging.
 
-DUMP so中代码的脚本
+功能：DUMP so中解密后的代码
